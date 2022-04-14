@@ -8,7 +8,7 @@ import com.toastlib.SimpleToast;
 
 
 public class MainActivity extends AppCompatActivity {
-
+ String s="";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
